@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from telegram import Bot
 
 # ========= CONFIG =========
-BOT_TOKEN = "PASTE_YOUR_NEW_TOKEN_HERE"
+BOT_TOKEN = "8519357512:AAETGrN7mTQ67mW1kGIL9F9bVtwqTn_OkUg"
 CHECK_INTERVAL = 7200  # 2 hours
 # ==========================
 
